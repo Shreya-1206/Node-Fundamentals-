@@ -1,0 +1,16 @@
+{
+  "name": "log_text",
+  "version": "1.0.0",
+  "description": "Log Text to another file",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "writeFile",
+    "readFile"
+  ],
+  "author": "shreya",
+  "license": "ISC"
+}
