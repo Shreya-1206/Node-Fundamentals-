@@ -2,7 +2,7 @@
   "name": "node-funcdamentals",
   "version": "1.0.0",
   "description": "Practice node basics",
-  "main": "asyncAwait.js",
+  "main": "nonBlocking_io.js",
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
